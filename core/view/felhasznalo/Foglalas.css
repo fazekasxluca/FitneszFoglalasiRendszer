@@ -1,0 +1,19 @@
+#body{
+    background-image:url("projekt.webp");
+    background-position:center;
+    background-size: 1900px;
+    margin: 0 auto;
+      display: flex;
+     overflow: hidden;
+
+ }
+
+ html {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    height: 100%;
+    
+}
+
+ 
