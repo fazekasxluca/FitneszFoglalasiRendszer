@@ -1,0 +1,10 @@
+.container-fluid
+{ font-family:'Courier New', Courier, monospace;
+  background-image: url("../view/felhasznalo/hatterkep.webp");
+}
+
+#span
+{
+    border: 2px solid white;
+}
+
